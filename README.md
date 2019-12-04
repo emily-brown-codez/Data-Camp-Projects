@@ -6,4 +6,3 @@
      - Jupyter Notebook
      - Python 3.7.X
      
- - The data used in this project is provided by The World Bank. It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
